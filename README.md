@@ -1,5 +1,4 @@
-# LinearRegression
-## Interest Rate
+# Interest Rate Prediction
 The bank want to build a model such that bank can give a variable rate of interest to some people.
 This model will be implemented on bulk but bank done a proof of concept and collected data for some people. 
 Now using this data we have to build a machine learning model which can help us to predict the Interest Rate. 
